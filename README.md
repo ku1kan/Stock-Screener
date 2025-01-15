@@ -14,3 +14,6 @@ Average trading volume exceeds 50,000.
 Volatility is greater than 1%.
 Run the screener periodically at a configurable interval (default: 60 seconds).
 Runs as a background process, updating and printing results in real-time.
+
+
+This Code is under the MIT-License.
