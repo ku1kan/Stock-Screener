@@ -62,9 +62,7 @@ def calculate_indicators(stock_data):
 
 
 def fetch_and_screen(tickers):
-    """
-    Fetch live stock data and apply BNF-style screening.
-    """
+   
     stock_data = fetch_live_data(tickers)
     return calculate_indicators(stock_data)
 
